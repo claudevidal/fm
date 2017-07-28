@@ -1,0 +1,18 @@
+{
+  "name": "wsfm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jquery": "^3.2.1",
+    "nodemailer": "^4.0.1",
+    "osmosis": "^1.1.4",
+    "request": "^2.81.0"
+  }
+}
